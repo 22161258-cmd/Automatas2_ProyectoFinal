@@ -1,0 +1,6 @@
+presupuesto "Error de tipo" {
+  entero visitas = 1.5;
+  categoria ocio limite 500 {
+    gasto 100 descripcion "Cine";
+  }
+}

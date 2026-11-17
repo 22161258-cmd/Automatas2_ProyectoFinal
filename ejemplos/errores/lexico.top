@@ -1,0 +1,6 @@
+presupuesto "Error lexico" {
+  categoria ocio limite 500 {
+    gasto 100 descripcion "Cine";
+    gasto 10$ descripcion "Caracter invalido";
+  }
+}

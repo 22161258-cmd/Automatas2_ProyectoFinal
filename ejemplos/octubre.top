@@ -1,0 +1,10 @@
+presupuesto "Octubre" {
+  categoria comida limite 1000.00 {
+    gasto 450.50 descripcion "Supermercado";
+    gasto 120.00 descripcion "Comida corrida";
+  }
+
+  categoria transporte limite 600.00 {
+    gasto 80.00 descripcion "Autobus";
+  }
+}

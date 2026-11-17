@@ -1,0 +1,7 @@
+presupuesto "Error de ejecucion" {
+  decimal divisor = 0.00;
+  decimal resultado = 10.00 / divisor;
+  categoria ocio limite 500 {
+    gasto 100 descripcion "Cine";
+  }
+}

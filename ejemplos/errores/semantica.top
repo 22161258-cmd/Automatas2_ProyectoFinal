@@ -1,0 +1,5 @@
+presupuesto "Error semantico" {
+  categoria comida limite 0 {
+    gasto 100 descripcion "El limite debe ser positivo";
+  }
+}

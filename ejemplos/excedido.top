@@ -1,0 +1,6 @@
+presupuesto "Noviembre" {
+  categoria comida limite 1000.00 {
+    gasto 750.00 descripcion "Supermercado";
+    gasto 300.00 descripcion "Comida";
+  }
+}
