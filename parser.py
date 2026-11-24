@@ -119,4 +119,3 @@ class Parser:
         raise ErrorSintactico("se esperaba literal, variable o expresion entre parentesis",t.linea,t.columna)
 
 def parsear(tokens): return Parser(tokens).analizar()
-

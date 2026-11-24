@@ -88,6 +88,3 @@ class MaquinaVirtual:
         else: lineas.append("Estado: ninguna categoria excede su limite.")
         return lineas
 def ejecutar(codigo,nombre): return MaquinaVirtual(codigo,nombre).ejecutar()
-
-
-
